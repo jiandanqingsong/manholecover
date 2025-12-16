@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+numpy
+split-folders
+albumentations
+tqdm
+scikit-learn
+matplotlib
